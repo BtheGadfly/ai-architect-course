@@ -1,6 +1,6 @@
 # Expedition 1: The New Enterprise Blueprint
 
-**Theme:** The "Macro" View — How AGI-lite is reshaping SaaS and the "Full Stack".
+**Theme:** Moving from "Chatting with AI" to "Building with Agents."
 
 **Outcome:** Identify the difference between "Embedded AI" (features) and "Agentic AI" (workers).
 
@@ -10,7 +10,7 @@
 
 Many organizations are still stuck with legacy systems, operating like a city of sealed-off bunkers. Finance, Sales, and Ops work in isolation, relying on manual emails or support tickets to communicate. Context gets lost, progress slows, and you spend your time firefighting issues that could have been prevented.
 
-**The Shift:** As an AI Architect, you aren't just buying a faster messenger. You are installing a Digital Nervous System. You are replacing manual, complex tasks with Agentic AI—autonomous workers that live between the bunkers, translating "Sales language" into "Legal action" in real-time. You are moving from managing silos to managing flow.
+**The Shift:** As an AI Architect, you aren't just buying a faster messenger. You are installing a Digital Nervous System. You are replacing manual, complex tasks with Agentic AI, autonomous workers that live between the bunkers, translating "Sales language" into "Legal action" in real-time. You are moving from managing silos to managing flow.
 
 ---
 
@@ -20,9 +20,9 @@ To build this nervous system, you must be familiar with the new three-tier anato
 
 | Layer | Component | The Function |
 | :--- | :--- | :--- |
-| **1. Infrastructure** | LLMs & Vector DBs | **The Brain & Memory.** Raw intelligence and company data storage. |
-| **2. Orchestration** | Agents & RAG | **The Reasoning.** The "glue" (like LangChain) telling the brain how to search memory, use tools, and follow multi-step logic. |
-| **3. Application** | UI / Interfaces | **The Handshake.** Where the human interacts (Slack bot, dashboard, or background process). |
+| **1. Infrastructure** | LLMs & Vector DBs | **The Brain & Memory.** This is where the raw intelligence lives and where company data is stored in a way the AI can recall. |
+| **2. Orchestration** | Agents & RAG | **The Reasoning.** The glue (like LangChain) that tells the brain how to search memory, use tools, and follow a multi-step logic chain. |
+| **3. Application** | UI / Interfaces | **The Handshake.** Where the human interacts—whether it is a Slack bot, a dashboard, or a hidden process running in the background. |
 
 ::: warning 💡 Architect's Note
 Your biggest opportunity for growth lies in the "Red" areas where a human is still acting as the manual bridge between two apps.
@@ -32,27 +32,25 @@ Your biggest opportunity for growth lies in the "Red" areas where a human is sti
 
 ## The Sandbox: The "Lipstick" Auditor
 
-**Outcome:** Identify where AI is just "lipstick" (a UI feature) versus where it is the "engine" (automating logic)[cite: 1].
+**Outcome:** Identify where AI is just "lipstick" (a UI feature) versus where it is the "engine" (automating logic).
 
-* **The Challenge:** Not all AI is created equal[cite: 1]. Some is just a fancy coat of paint[cite: 1].
-* **The Task:** Select three "AI Features" you currently use or that are advertised in common productivity tools (e.g., "Summarize" in Zoom, "Help me Write" in Google Docs, or "Lead Scoring" in a CRM)[cite: 1].
-* **The Audit:** 
-  * **Embedded AI (Lipstick):** Does it just summarize or rephrase text within a single window[cite: 1]?
-  * **Agentic AI (Engine):** Does it actually *move* data between systems or trigger a downstream task (like updating a budget after an email is read)[cite: 1]?
-* **The Artifact:** Create a **"Heat Map"** of your workflow[cite: 1]. Mark "Lipstick" tools in red and "Engine" tools in green[cite: 1].
+- **The Challenge:** Not all AI is created equal. Some is just a fancy coat of paint.
+- **The Task:** Select three "AI Features" you currently use or that are currently advertised in common productivity tools (e.g., "Summarize" in Zoom, "Help me Write" in Google Docs, or "Lead Scoring" in a CRM).
+- **The Audit:**
+  - **Embedded AI (Lipstick):** Does it just summarize or rephrase text within a single window? Analyze which of these are Embedded AI (simple features that save 30 seconds of typing) and which are Agentic AI (capable of taking an action in another system based on a decision).
+  - **Agentic AI (Engine):** Does it actually *move* data between systems or trigger a downstream task (like updating a budget after an email is read)?
+- **The Artifact:** Create a **"Heat Map"** of your workflow. Mark "Lipstick" tools in red and "Engine" tools in green.
 
 ---
 
 ## The Commons (Sharing & Feedback)
 
-* **The Mission:** Post a screenshot or list of your **Heat Map** findings in your team's Slack/Discord or on LinkedIn (using `#AIArchitect`)[cite: 1]. Explain the "Digital Nervous System" concept to a non-technical friend[cite: 1].
-* **The Plus/Delta Exchange:**
-  * **Plus (+):** Identify a peer's "Green" (Agentic) tool and ask how they handled security permissions[cite: 1].
-  * **Delta ($\Delta$):** If you see a tool labeled as "Lipstick," suggest one specific **Orchestration** tool (like Zapier Central or a custom LangChain agent) that could turn it into a "System of Action"[cite: 1].
+- **The Mission:** Post a screenshot or a brief list of your **"Heat Map"** findings in your team's Slack/Discord or on a professional forum like **LinkedIn** (using #AIArchitect). Explain the "Digital Nervous System" concept to a non-technical friend. If you can't explain it simply, you don't own the concept yet.
+- **The Plus/Delta Exchange:**
+  - **Plus (+):** Identify a peer's "Green" (Agentic) tool and ask how they handled the security permissions.
+  - **Delta (Δ):** If you see a tool they labeled as "Lipstick," suggest one specific **Orchestration** tool (like Zapier Central or a custom LangChain agent) that could turn it into a "System of Action."
 
 ---
-
-## The Explorer's Compass (AI Prompts for Research)
 
 ## The Explorer's Compass (AI Prompts for Research)
 
