@@ -33,4 +33,4 @@ Familiarize yourself with these 5 core building blocks before starting:
 ## 🛠️ How to Navigate This Course
 1. Click on any module link in the table above to start the lesson.
 2. Complete the **Sandbox Challenges** inside each section.
-3. Use the **Explorer's Compass** prompts with your favorite AI chatbot to test your understanding.
+3. Use the **Explorer's Compass** prompts with your favorite AI chatbot to test your understanding. 
