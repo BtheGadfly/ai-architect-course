@@ -26,7 +26,9 @@ features:
 
 ## Course Overview
 
-This course helps you upskill from basic AI use to understanding how agentic AI transforms workplace workflows[cite: 2]. You will gain a practical foundation in AI concepts, explore real-world implications, and practice applying AI as a productivity partner[cite: 2].
+This course helps you upskill from basic AI use to understanding how agentic AI transforms workplace workflows. You will gain a practical foundation in AI concepts, explore real-world implications, and practice applying AI as a productivity partner[cite: 2].
+
+---
 
 ### Pre-Expedition: The First Aid Kit (Minimum Viable Knowledge)
 
