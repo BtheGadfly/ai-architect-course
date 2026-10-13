@@ -54,14 +54,16 @@ Your biggest opportunity for growth lies in the "Red" areas where a human is sti
 
 ## The Explorer's Compass (AI Prompts for Research)
 
+## The Explorer's Compass (AI Prompts for Research)
+
 ::: info ⏱️ Tip
-Timebox interacting with chatbots/research to 15 minutes[cite: 1].
+Timebox interacting with chatbots/research to 15 minutes.
 :::
 
 ::: tip 🧭 The "Foundation" Prompt (For Novices)
-"I am new to AI architecture. Explain the 3-Layer Stack (Infrastructure, Orchestration, Application) using the analogy of a Commercial Airline[cite: 1]. Who is the pilot (intelligence), what is the flight plan (orchestration), and what is the cockpit (UI)[cite: 1]? Specifically, help me understand why the 'Orchestration' layer is what makes an AI an 'Agent' rather than just a chatbot[cite: 1]."
+"I am new to AI architecture. Explain the 3-Layer Stack (Infrastructure, Orchestration, Application) using the analogy of a Commercial Airline. Who is the pilot (intelligence), what is the flight plan (orchestration), and what is the cockpit (UI)? Specifically, help me understand why the 'Orchestration' layer is what makes an AI an 'Agent' rather than just a chatbot."
 :::
 
 ::: danger 🧪 The "Stress-Test" Prompt (For Experts)
-"Analyze the transition from Systems of Record to Systems of Action[cite: 1]. In a multi-agent enterprise deployment, what are the primary architectural risks of using RAG (Retrieval-Augmented Generation) over a Vector Database for real-time state management across silos[cite: 1]? Compare the performance trade-offs regarding token costs, latency, and 'stale data' when an agent must trigger an API call in a legacy ERP system[cite: 1]."
+"Analyze the transition from Systems of Record to Systems of Action. In a multi-agent enterprise deployment, what are the primary architectural risks of using RAG (Retrieval-Augmented Generation) over a Vector Database for real-time state management across silos? Compare the performance trade-offs regarding token costs, latency, and 'stale data' when an agent must trigger an API call in a legacy ERP system."
 :::
